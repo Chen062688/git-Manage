@@ -14,5 +14,6 @@ public class git {
         System.out.println("hello git4");
         System.out.println("master-test");
         System.out.println("push test!");
+        System.out.println("pull test!");
     }
 }
